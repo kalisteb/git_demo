@@ -10,3 +10,7 @@ git add .
 
 git commit -m "cambios al archivo demo_index.html"
 
+git push origin master
+
+
+
