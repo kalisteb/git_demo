@@ -1,0 +1,12 @@
+en github hacer un fork del repositorio
+
+git clone https://github.com/kalisteb/git_demo.git
+
+cd git_demo/
+
+git remote add upstream https://github.com/jjun14/git_demo
+
+git add .
+
+git commit -m "cambios al archivo demo_index.html"
+
