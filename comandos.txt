@@ -12,5 +12,5 @@ git commit -m "cambios al archivo demo_index.html"
 
 git push origin master
 
-
+en github create pull request
 
